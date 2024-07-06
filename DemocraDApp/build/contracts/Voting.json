@@ -17169,10 +17169,16 @@
       "links": {},
       "address": "0x0243A2A3dee7f494a1Fa11a3CFC9e986A7E31Bee",
       "transactionHash": "0xe313382992dc22a6fd397b1bdde589a8b1c782952badeb1772edae22350359ab"
+    },
+    "1720273168042": {
+      "events": {},
+      "links": {},
+      "address": "0x418574466c6A3D792b55E2f6Db87F53887d67E93",
+      "transactionHash": "0xe02ce6591a031ab950b585ae9d1023884a46bc0afe032d890e782c98a781fe56"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2024-07-06T09:59:09.929Z",
+  "updatedAt": "2024-07-06T13:39:50.890Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
